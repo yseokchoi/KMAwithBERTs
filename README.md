@@ -3,8 +3,9 @@
 
 
 Korean Morphological Analyzer(KMA) using two Korean BERT models.
-
-
+Our code was written based on huggingface and OpenNMT-py codes.
+huggingface homepage: https://github.com/huggingface/transformers
+OpenNMT-py homepage: https://github.com/OpenNMT/OpenNMT-py
 
 ## BERT models
 
